@@ -1,0 +1,16 @@
+{
+	"name": "stylelint-config",
+	"version": "0.0.0",
+	"description": "Shared SCSS linting styles for all my personal projects",
+	"main": "index.js",
+	"repository": "git@github.com:malcolm-mclean/stylelint-config.git",
+	"author": "Malcolm McLean",
+	"license": "MIT",
+	"private": false,
+	"dependencies": {
+		"stylelint": "^13.5.0",
+		"stylelint-config-prettier": "^8.0.1",
+		"stylelint-config-standard": "^20.0.0",
+		"stylelint-scss": "^3.17.2"
+	}
+}
