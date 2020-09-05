@@ -13,7 +13,7 @@ yarn add -D malcolm-mclean/stylelint-config
 
 ```js
 {
-	extends: '@malcolm-mclean'
+	extends: ['@malcolm-mclean/stylelint-config']
 }
 ```
 
